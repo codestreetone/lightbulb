@@ -1,0 +1,27 @@
+.light-bulb{
+    width: 200px;
+    height: 300px;
+    margin: auto;
+    margin-top: 10vh;
+    position: relative;
+    
+}
+.light-bulb img{
+    width: 200px;
+    height: 300px;
+    
+}
+.light-bulb .btn-1{
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    top: 260px;
+
+}
+.light-bulb .btn-2{
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    top: 260px;
+    right: 200px;
+}
